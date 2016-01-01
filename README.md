@@ -1,6 +1,6 @@
-C++ Unit Testing with Google Test Tutorial
+C++ Unit Testing with Google Test 
 
-In this tutorial, we take a look at how to perform using testing in
+In this intro, we take a look at how to perform using testing in
 C++ using the Google Test framework and ReSharper C++ as the test runner. 
 
 
